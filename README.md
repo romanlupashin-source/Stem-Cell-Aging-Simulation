@@ -53,3 +53,8 @@ The simulation produces:
 ```bash
 pip install -r requirements.txt
 python stem_cell_aging_simulation.py
+
+⚠️ Limitations
+
+This is a simplified stochastic model and does not capture
+DNA damage response, cell cycle checkpoints, or tissue-level effects.
