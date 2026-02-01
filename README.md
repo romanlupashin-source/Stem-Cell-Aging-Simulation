@@ -58,3 +58,7 @@ python stem_cell_aging_simulation.py
 
 This is a simplified stochastic model and does not capture
 DNA damage response, cell cycle checkpoints, or tissue-level effects.
+
+Author
+
+Roman Lupashin
